@@ -1,4 +1,0 @@
-Git class
-And continue the API class
-Playwright
-Postman
