@@ -24,3 +24,7 @@ function checkin() {
     
 }
 bookroom(checkin);
+
+function name(params) {
+    
+}
