@@ -25,8 +25,10 @@ function checkin() {
 }
 bookroom(checkin);
 
-function name(params) {
+function name(b) {
     let a =10;
     console.log(a);
+    b = "git";
+    console.log(b);
     
 }
