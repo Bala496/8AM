@@ -26,5 +26,7 @@ function checkin() {
 bookroom(checkin);
 
 function name(params) {
+    let a =10;
+    console.log(a);
     
 }
